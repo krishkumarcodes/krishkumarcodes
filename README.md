@@ -184,6 +184,30 @@
     </a>
   </p>
   <br>
+  <!-- THE SWORDSMAN'S SIGNATURE -->
+  <div align="center">
+    <img src="zoro_sword.png" width="120" alt="Zoro Sword">
+  </div>
+  <pre align="center" style="color: #00FF40; background: #0D1117; border: 2px solid #00FF40; padding: 20px; border-radius: 8px; line-height: 1.2;">
+ _        _______ _________ _______          
+| \    /\(  ____ )\__   __/(  ____ \|\     /|
+|  \  / /| (    )|   ) (   | (    \/| )   ( |
+|  (_/ / | (____)|   | |   | (_____ | (___) |
+|   _ (  |     __)   | |   (_____  )|  ___  |
+|  ( \ \ | (\ (      | |         ) || (   ) |
+|  /  \ \| ) \ \_____) (___/\____) || )   ( |
+|_/    \/|/   \__/\_______/\_______)|/     \|
+                                             
+ _                 _______  _______  _______ 
+| \    /\|\     /|(       )(  ___  )(  ____ )
+|  \  / /| )   ( || () () || (   ) || (    )|
+|  (_/ / | |   | || || || || (___) || (____)|
+|   _ (  | |   | || |(_)| ||  ___  ||     __)
+|  ( \ \ | |   | || |   | || (   ) || (\ (   
+|  /  \ \| (___) || )   ( || )   ( || ) \ \__
+|_/    \/(_______)|/     \||/     \||/   \__/
+  </pre>
+  <br>
   <!-- FOOTER WAVE -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer&stroke=00FF40&strokeWidth=2" width="100%" alt="Footer Wave" />
 </div>
