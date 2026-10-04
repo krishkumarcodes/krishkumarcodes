@@ -198,7 +198,7 @@ const krish = {
 
 <div align="center">
 
-```
+<pre style="color: #00FF41; background: transparent; font-family: monospace; font-weight: bold;">
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
 ║    ██╗  ██╗██████╗ ██╗███████╗██╗  ██╗                   ║
@@ -218,7 +218,7 @@ const krish = {
 ║           ⚔️  Three-Sword Style Coder  ⚔️                ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
-```
+</pre>
 
 </div>
 
