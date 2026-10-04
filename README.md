@@ -8,7 +8,7 @@
   <br>
   
   <a href="https://krcodes.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=00FF40&center=true&vCenter=true&width=600&lines=%E2%9A%94%EF%B8%8F+Bounty%3A+1%2C111%2C000%2C000+Berries+%E2%9A%94%EF%B8%8F;%E2%9A%94%EF%B8%8F+SS-Class+Frontend+Swordsman+%E2%9A%94%EF%B8%8F;%E2%9A%94%EF%B8%8F+The+Pixel+Hunter+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=00FF40&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;React+%26+Next.js+Specialist;Building+Pixel-Perfect+UIs;%E2%9A%94%EF%B8%8F+Three-Sword+Style+Coder+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,7 +20,7 @@
 <table align="center" width="100%" style="border: 2px solid #00FF40; background-color: #0D1117;">
   <tr>
     <td align="center" width="30%">
-      <img src="https://i.pinimg.com/originals/a0/62/ea/a062ea98341b53c7a3dc1e29c158580c.gif" width="100%" style="border-radius: 8px; border: 2px solid #00FF40;" alt="Wanted Poster Avatar">
+      <img src="https://media.giphy.com/media/13fTar4VVaFlG8/giphy.gif" width="100%" style="border-radius: 8px; border: 2px solid #00FF40;" alt="Wanted Poster Avatar">
     </td>
     <td width="70%" style="padding: 20px;">
       <h2 align="center" style="color: #00FF40;">🏴‍☠️ MARINE HQ DOSSIER FILE: #011-RZ</h2>
@@ -42,7 +42,7 @@
       </table>
       <br>
       <div style="color: #c9d1d9;">
-        Born in the East Blue of static web pages, I have forged my skills in the unforgiving, chaotic waters of the New World's web architecture. I am a master of the Frontend Santoryu. I don't just build interfaces; I slice through catastrophic codebases and conquer the Grand Line of user experiences. If there is a wall in my way, I cut it down.
+        I am a passionate Frontend Developer who loves building clean, responsive, and powerful web experiences. Just like a swordsman mastering their craft, I constantly sharpen my skills in modern web technologies. I don't just build interfaces—I slice through complex problems and deliver pixel-perfect solutions. Always ready for the next challenge!
       </div>
       <br>
       <div align="center" style="color: #00FF40; font-family: monospace;">
@@ -91,18 +91,14 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%" alt="Divider">
 </div>
 
-<!-- HAKI WIDGETS (SPOTIFY / DEV.TO) -->
-<h2 align="center" style="color: #00FF40;">🌊 HAKI RESONANCE 🌊</h2>
-<table align="center" width="100%" style="background-color: transparent; border: none;">
-  <tr>
-    <td align="center" width="50%" style="border: none;">
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=krishkumarcodes&cover_image=true&theme=novatimo&bg_color=0D1117&title_color=00FF40&text_color=00FF40&bar_color=00FF40" alt="Spotify Now Playing">
-    </td>
-    <td align="center" width="50%" style="border: none;">
-      <img src="https://blog-post-card.vercel.app/api?username=krishkumarcodes&bg_color=0D1117&title_color=00FF40&text_color=00FF40&border_color=00FF40" alt="DEV.to Posts">
-    </td>
-  </tr>
-</table>
+<!-- ZORO QUOTE -->
+<br>
+<div align="center">
+  <img src="https://media.giphy.com/media/4c0sL2NqD5Ere/giphy.gif" width="400px" style="border-radius: 8px; border: 2px solid #00FF40;" alt="Zoro Aura">
+  <br><br>
+  <i style="color: #00FF40;">"Bring on the hardship. It's preferred in a path of carnage."</i>
+</div>
+<br>
 
 <!-- GITHUB STATS WIDGETS -->
 <h2 align="center" style="color: #00FF40;">⚔️ COMBAT RECORD (STATS) ⚔️</h2>
