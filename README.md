@@ -15,7 +15,7 @@
   <!-- DYNAMIC SOCIAL PROOF -->
   <img src="https://img.shields.io/github/followers/krishkumarcodes?style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github&label=Followers" alt="Followers" />
   <img src="https://img.shields.io/github/stars/krishkumarcodes?style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github&label=Stars" alt="Stars" />
-  <img src="https://komarev.com/ghpvc/?username=krishkumarcodes&color=00FF41&style=for-the-badge&label=Profile+Views" alt="Views" />
+  <img src="https://hits.sh/github.com/krishkumarcodes.svg?style=for-the-badge&label=Profile%20Views&color=00FF41&labelColor=0D1117" alt="Views" />
 
 </div>
 
