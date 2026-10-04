@@ -112,8 +112,8 @@ const krish = {
 
 <div align="center">
 
-<a href="https://github.com/krishkumarcodes/antigravity-termux-guide">
-  <img src="https://img.shields.io/badge/🌌_POCKET_GRAVITY-Termux_Setup-00FF41?style=for-the-badge&labelColor=0D1117" alt="Pocket Gravity Guide" />
+<a href="https://github.com/krishkumarcodes/pocket-antigravity">
+  <img src="https://img.shields.io/badge/🌌_POCKET_GRAVITY-Termux_Setup-00FF41?style=for-the-badge&labelColor=0D1117" alt="Pocket Antigravity Guide" />
 </a>
 <a href="https://github.com/krishkumarcodes/droidforge">
   <img src="https://img.shields.io/badge/⚔️_DROIDFORGE-320+_FOSS_Apps-00FF41?style=for-the-badge&labelColor=0D1117" alt="DroidForge Android FOSS" />
@@ -140,7 +140,7 @@ const krish = {
 
 | Project | Role | Stack | About |
 |:--------|:----:|:-----:|:------|
-| [🌌 **Pocket Gravity**](https://github.com/krishkumarcodes/antigravity-termux-guide) | `🔥 Creator` | `Markdown` | The ultimate beginner's guide to running Google Antigravity CLI on Termux |
+| [🌌 **Pocket Antigravity**](https://github.com/krishkumarcodes/pocket-antigravity) | `🔥 Creator` | `Markdown` | The ultimate beginner's guide to running Google Antigravity CLI on Termux |
 | [⚔️ **DroidForge**](https://github.com/krishkumarcodes/droidforge) | `🔥 Creator` | `Open Source` | The ultimate curated list of 320+ best open-source Android apps |
 | [⚔️ **Atmocraft**](https://github.com/krishkumarcodes/atmocraft) | `🔥 Creator` | `Full Stack` | My flagship project — built completely from scratch |
 | [💊 **Mediverse**](https://github.com/krishkumarcodes/mediverse) | `🤝 Contributor` | `Open Source` | Active contributions to the Mediverse project |
