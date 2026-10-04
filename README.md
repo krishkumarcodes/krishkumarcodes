@@ -1,213 +1,176 @@
-<!-- ========================================================================= -->
-<!-- ⚔️ RORONOA ZORO // THREE-SWORD STYLE GITHUB PROFILE README ⚔️           -->
-<!-- ========================================================================= -->
+<!-- ⚔️ RORONOA ZORO // SANTORYU GITHUB PROFILE ⚔️ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=260&section=header&text=Krish%20Kumar&fontSize=70&fontColor=00FF40&animation=fadeIn&fontAlignY=38&desc=三刀流%20%E3%83%BB%20SANTORYU%20FRONTEND%20DEVELOPER&descSize=19&descAlignY=58&descAlign=50&stroke=00FF40" alt="Zoro Header" width="100%" />
-  
-  <br>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:003B00&height=280&section=header&text=Krish%20Kumar&fontSize=75&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=⚔️%20Frontend%20Developer%20•%20Freelancer%20•%20B.Tech%20CSE&descSize=18&descAlignY=58&descAlign=50&stroke=00FF41&strokeWidth=1" width="100%" alt="Header" />
+</div>
+
+<div align="center">
+
   <a href="https://krcodes.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=00FF40&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;React+%26+Next.js+Specialist;Building+Pixel-Perfect+UIs;%E2%9A%94%EF%B8%8F+Three-Sword+Style+Coder+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Frontend+Web+Developer;React+%7C+Next.js+%7C+Tailwind;Pixel-Perfect+UI+Builder;Open+Source+Contributor" alt="Typing SVG" />
   </a>
+
+  <br><br>
+
+  <a href="https://github.com/krishkumarcodes">
+    <img src="https://img.shields.io/badge/⚔️_Santoryu_Coder-0D1117?style=for-the-badge&logoColor=00FF41" alt="Santoryu" />
+  </a>
+  <a href="https://krcodes.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-0D1117?style=for-the-badge&logoColor=00FF41" alt="Portfolio" />
+  </a>
+  <a href="mailto:krishkumarcodes@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Hire_Me-0D1117?style=for-the-badge&logoColor=00FF41" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=krishkumarcodes&color=00FF41&style=flat-square&label=Profile+Views" alt="Views" />
+
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%" alt="Divider">
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%" alt="divider" />
 
-<!-- DOSSIER INFO -->
-<table align="center" width="100%" style="border: 2px solid #00FF40; background-color: #0D1117;">
-  <tr>
-    <td align="center" width="30%">
-      <img src="https://media.giphy.com/media/13fTar4VVaFlG8/giphy.gif" width="100%" style="border-radius: 8px; border: 2px solid #00FF40;" alt="Wanted Poster Avatar">
-    </td>
-    <td width="70%" style="padding: 20px;">
-      <h2 align="center" style="color: #00FF40;">🏴‍☠️ MARINE HQ DOSSIER FILE: #011-RZ</h2>
-      <table width="100%" style="background-color: #161b22; border-radius: 8px;">
-        <tr>
-          <td><b style="color: #00FF40;">NAME:</b> Krish Kumar</td>
-          <td><b style="color: #00FF40;">STYLE:</b> Santoryu (Three-Sword Style)</td>
-        </tr>
-        <tr>
-          <td><b style="color: #00FF40;">ALIAS:</b> The Pixel Hunter</td>
-          <td><b style="color: #00FF40;">HAKI:</b> Armament, Observation, Conqueror's</td>
-        </tr>
-        <tr>
-          <td colspan="2"><b style="color: #00FF40;">THREAT LEVEL:</b> MAXIMUM (SS-CLASS)</td>
-        </tr>
-        <tr>
-          <td colspan="2"><b style="color: #00FF40;">CURRENT BOUNTY:</b> 1,111,000,000 Berries</td>
-        </tr>
-      </table>
-      <br>
-      <div style="color: #c9d1d9;">
-        I am a passionate Frontend Developer who loves building clean, responsive, and powerful web experiences. Just like a swordsman mastering their craft, I constantly sharpen my skills in modern web technologies. I don't just build interfaces—I slice through complex problems and deliver pixel-perfect solutions. Always ready for the next challenge!
-      </div>
-      <br>
-      <div align="center" style="color: #00FF40; font-family: monospace;">
-        <i>"A scar on the backend is a swordsman's shame."</i>
-      </div>
-    </td>
-  </tr>
-</table>
+<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%" alt="Divider">
-</div>
-
-<!-- SWORDSMAN'S SCROLL: SKILLS & TECH -->
-<h2 align="center" style="color: #00FF40;">🗡️ THE SANTORYU ARSENAL 🗡️</h2>
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="33%" style="border: 1px solid #00FF40; background-color: #0D1117;">
-      <h3 style="color: #00FF40;">Wado Ichimonji</h3>
-      <p><i>[THE UNYIELDING FOUNDATION]</i></p>
-      <p>The blade of harmony and structure. Forged with semantic precision and unbreakable layouts.</p>
-      <p>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" alt="Core" /></a>
-      </p>
-    </td>
-    <td align="center" width="33%" style="border: 1px solid #00FF40; background-color: #0D1117;">
-      <h3 style="color: #00FF40;">Sandai Kitetsu</h3>
-      <p><i>[THE CURSED BLADE]</i></p>
-      <p>A bloodthirsty blade that cuts through complex UI states. I bend the Virtual DOM to my will.</p>
-      <p>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,redux,tailwind,figma&theme=dark" alt="React" /></a>
-      </p>
-    </td>
-    <td align="center" width="33%" style="border: 1px solid #00FF40; background-color: #0D1117;">
-      <h3 style="color: #00FF40;">Enma</h3>
-      <p><i>[THE UNDERWORLD RULER]</i></p>
-      <p>Unleashes hellish Server-Side Rendering. When I draw Enma, SEO and load times bow before me.</p>
-      <p>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,nodejs,git,github&theme=dark" alt="NextJS" /></a>
-      </p>
+    <td width="50%" valign="top">
+
+### ⚔️ About Me
+
+```js
+const krish = {
+  name: "Krish Kumar",
+  location: "India 🇮🇳",
+  role: "Frontend Web Developer",
+  education: "B.Tech CSE (1st Year)",
+  portfolio: "krcodes.vercel.app",
+  available: true,
+};
+```
+
+- 🔭 Currently working on **Atmocraft** (built from scratch)
+- 🌱 Contributing to **Mediverse** (open source)
+- ⚡ I build clean, responsive & powerful UIs
+- 💼 Open for **freelance** work & collaborations
+- 📫 Reach me at **krishkumarcodes@gmail.com**
+
+</td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/13fTar4VVaFlG8/giphy.gif" width="350px" alt="Zoro GIF" />
+      <br><br>
+      <em>"Nothing happened."</em>
     </td>
   </tr>
 </table>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%" alt="divider" />
+
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+
+<h2 align="center">🗡️ Tech Arsenal</h2>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%" alt="Divider">
+
+| Wado Ichimonji | Sandai Kitetsu | Enma |
+|:---:|:---:|:---:|
+| *Core Foundation* | *Reactive Frameworks* | *Full Stack & Tools* |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode&theme=dark" /></a> |
+
 </div>
 
-<!-- ZORO QUOTE -->
-<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%" alt="divider" />
+
+<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
+
+<h2 align="center">📜 Featured Projects</h2>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/4c0sL2NqD5Ere/giphy.gif" width="400px" style="border-radius: 8px; border: 2px solid #00FF40;" alt="Zoro Aura">
+
+| Project | Type | Stack | Description |
+|:--------|:----:|:-----:|:------------|
+| [⚔️ **Atmocraft**](https://github.com/krishkumarcodes/atmocraft) | `Creator` | `Full Stack` | Built completely from scratch — my flagship project |
+| [💊 **Mediverse**](https://github.com/krishkumarcodes/mediverse) | `Contributor` | `Open Source` | Active open source contributions |
+| [📗 **DevHub**](https://github.com/krishkumarcodes/frontend-showcase-devhub) | `Creator` | `HTML CSS JS` | Dark-mode developer resource directory |
+| [🧭 **Portfolio**](https://krcodes.vercel.app/) | `Creator` | `React Tailwind` | Personal developer portfolio |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%" alt="divider" />
+
+<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishkumarcodes&show_icons=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&border_color=00FF41&count_private=true&hide_border=false" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishkumarcodes&layout=compact&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00FF41&hide_border=false" height="180" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=krishkumarcodes&theme=dark&background=0D1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E&currStreakLabel=00FF41" alt="Streak Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/krishkumarcodes/krishkumarcodes/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%" alt="divider" />
+
+<!-- ═══════════════════════ ZORO QUOTE + ASCII ═══════════════════════ -->
+
+<div align="center">
+  <img src="https://media.giphy.com/media/4c0sL2NqD5Ere/giphy.gif" width="350px" alt="Zoro" />
   <br><br>
-  <i style="color: #00FF40;">"Bring on the hardship. It's preferred in a path of carnage."</i>
+  <em>"Bring on the hardship. It's preferred in a path of carnage."</em>
+  <br><br>
 </div>
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   ██╗  ██╗██████╗ ██╗███████╗██╗  ██╗                        ║
+║   ██║ ██╔╝██╔══██╗██║██╔════╝██║  ██║                        ║
+║   █████╔╝ ██████╔╝██║███████╗███████║                        ║
+║   ██╔═██╗ ██╔══██╗██║╚════██║██╔══██║                        ║
+║   ██║  ██╗██║  ██║██║███████║██║  ██║                        ║
+║   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝                        ║
+║                                                               ║
+║   ██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗                ║
+║   ██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗               ║
+║   █████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝               ║
+║   ██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗               ║
+║   ██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║               ║
+║   ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝               ║
+║                                                               ║
+║              ⚔️  Three-Sword Style Coder  ⚔️                  ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+
+<div align="center">
+
+  <a href="mailto:krishkumarcodes@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Gmail" />
+  </a>
+  <a href="https://krcodes.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF41" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/krishkumarcodes">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub" />
+  </a>
+
+</div>
+
 <br>
 
-<!-- GITHUB STATS WIDGETS -->
-<h2 align="center" style="color: #00FF40;">⚔️ COMBAT RECORD (STATS) ⚔️</h2>
-<table align="center" width="100%" style="background-color: transparent; border: none;">
-  <tr>
-    <td align="center" width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=krishkumarcodes&bg_color=0D1117&title_color=00FF40&text_color=00FF40&icon_color=00FF40&border_color=00FF40&show_icons=true" alt="Zoro Stats">
-    </td>
-    <td align="center" width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishkumarcodes&bg_color=0D1117&title_color=00FF40&text_color=00FF40&icon_color=00FF40&border_color=00FF40&layout=compact" alt="Top Languages">
-    </td>
-  </tr>
-</table>
-
-<!-- RECENT BATTLES (CONTRIBUTIONS) -->
-<h2 align="center" style="color: #00FF40;">🐉 ASURA PROGRESSION (CONTRIBUTIONS) 🐉</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishkumarcodes&background=0D1117&ring=00FF40&fire=00FF40&currStreakNum=00FF40&sideNums=00FF40&currStreakLabel=00FF40&sideLabels=00FF40&dates=00FF40&border=00FF40" alt="Streak Stats">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/krishkumarcodes/krishkumarcodes/output/github-contribution-grid-snake-dark.svg" alt="Neon Green Contribution Snake" />
-</p>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%" alt="Divider">
-</div>
-
-<!-- SHOWCASE -->
-<h2 align="center" style="color: #00FF40;">📜 CONQUERED TERRITORIES 📜</h2>
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th><b>Operation / Repository</b></th>
-      <th><b>Threat Level</b></th>
-      <th><b>Blade (Stack)</b></th>
-      <th><b>Mission Brief</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b><a href="https://github.com/krishkumarcodes/atmocraft">⚔️ Atmocraft</a></b></td>
-      <td><code>[SS-RATE]</code></td>
-      <td><code>Custom Built</code></td>
-      <td>Completely built from scratch by me. My flagship project.</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/krishkumarcodes/mediverse">💊 Mediverse</a></b></td>
-      <td><code>[S-RATE]</code></td>
-      <td><code>Active Contribution</code></td>
-      <td>Recent open source contributions to the Mediverse project.</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/krishkumarcodes/frontend-showcase-devhub">📗 DevHub</a></b></td>
-      <td><code>[S-RATE]</code></td>
-      <td><code>HTML • CSS • JS</code></td>
-      <td>Sleek, dark-mode curated developer resource directory with animations.</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://krcodes.vercel.app/">🧭 Portfolio</a></b></td>
-      <td><code>[A-RATE]</code></td>
-      <td><code>React • Tailwind</code></td>
-      <td>Personal frontend web developer portfolio.</td>
-    </tr>
-  </tbody>
-</table>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%" alt="Divider">
-</div>
-
-<!-- CONTACT / DEN DEN MUSHI -->
-<div align="center">
-  <h3 style="color: #00FF40;">🐌 TRANSMISSION LINE (DEN DEN MUSHI)</h3>
-  <p>
-    <a href="mailto:krishkumarcodes@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Den_Den_Mushi_(Mail)-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF40&borderColor=00FF40" alt="Email" />
-    </a>
-    <a href="https://krcodes.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Vivre_Card_(Web)-0D1117?style=for-the-badge&logo=firefox&logoColor=00FF40&borderColor=00FF40" alt="Website" />
-    </a>
-  </p>
-  <br>
-  <!-- THE SWORDSMAN'S SIGNATURE -->
-  <div align="center">
-    <img src="zoro_sword.png" width="120" alt="Zoro Sword">
-  </div>
-  <pre align="center" style="color: #00FF40; background: #0D1117; border: 2px solid #00FF40; padding: 20px; border-radius: 8px; line-height: 1.2;">
- _        _______ _________ _______          
-| \    /\(  ____ )\__   __/(  ____ \|\     /|
-|  \  / /| (    )|   ) (   | (    \/| )   ( |
-|  (_/ / | (____)|   | |   | (_____ | (___) |
-|   _ (  |     __)   | |   (_____  )|  ___  |
-|  ( \ \ | (\ (      | |         ) || (   ) |
-|  /  \ \| ) \ \_____) (___/\____) || )   ( |
-|_/    \/|/   \__/\_______/\_______)|/     \|
-                                             
- _                 _______  _______  _______ 
-| \    /\|\     /|(       )(  ___  )(  ____ )
-|  \  / /| )   ( || () () || (   ) || (    )|
-|  (_/ / | |   | || || || || (___) || (____)|
-|   _ (  | |   | || |(_)| ||  ___  ||     __)
-|  ( \ \ | |   | || |   | || (   ) || (\ (   
-|  /  \ \| (___) || )   ( || )   ( || ) \ \__
-|_/    \/(_______)|/     \||/     \||/   \__/
-  </pre>
-  <br>
-  <!-- FOOTER WAVE -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer&stroke=00FF40&strokeWidth=2" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003B00,100:0D1117&height=120&section=footer&stroke=00FF41&strokeWidth=1" width="100%" alt="Footer" />
 </div>
