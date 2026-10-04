@@ -1,4 +1,4 @@
-name: Generate Contribution Snake Animation
+name: Generate Contribution Snake Animation (Zoro Theme)
 
 on:
   schedule:
@@ -21,13 +21,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Snake SVGs
+      - name: Generate Neon Green Snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: krishkumarcodes
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00FF40
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
