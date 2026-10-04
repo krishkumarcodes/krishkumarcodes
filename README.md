@@ -113,15 +113,8 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishkumarcodes&bg_color=0D1117&text_color=00FF40&border_color=00FF40&title_color=00FF40&margin-w=15" alt="Trophies">
-</p>
-
 <!-- RECENT BATTLES (CONTRIBUTIONS) -->
 <h2 align="center" style="color: #00FF40;">🐉 ASURA PROGRESSION (CONTRIBUTIONS) 🐉</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishkumarcodes&bg_color=0D1117&color=00FF40&line=00FF40&point=00FF40&area=true&hide_border=true" width="100%" alt="Contribution Graph">
-</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishkumarcodes&background=0D1117&ring=00FF40&fire=00FF40&currStreakNum=00FF40&sideNums=00FF40&currStreakLabel=00FF40&sideLabels=00FF40&dates=00FF40&border=00FF40" alt="Streak Stats">
